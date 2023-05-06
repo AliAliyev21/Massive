@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\Tapwiriq 9\Tapwiriq 9\Source.cpp(222,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\Tapwiriq 9\Tapwiriq 9\Source.cpp(244,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Tapwiriq 9.vcxproj -> C:\Users\user\source\repos\Tapwiriq 9\x64\Debug\Tapwiriq 9.exe
